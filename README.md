@@ -1,49 +1,58 @@
-### Hi there 👋
+<h1><strong>Hi, I'm Aarathi </a></strong> <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="28px"></h1>
 
-<!--
-**AarathiNadathur/AarathiNadathur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="left"> 
+    <img src="https://komarev.com/ghpvc/?username=AarathiNadathur" alt="AarathiNadathur"> 
+</div>
 
 
-<p align="left"> 
- <img src=https://komarev.com/ghpvc/?username=AarathiNadathur alt=AarathiNadathur/> 
- &nbsp; 
- 
-  
-  
-
-  
-</p>
+<p> I am a passionate data analyst and love to work with challenging and interesting datasets. I am a Data Analytics graduate from San Jose State University. 👨‍💻I am currently workinng as a Jr. Data Analyst for <strong>Ellkay LLC</strong> </p>
 
 
 
-<p align="left">
-  
- <img src=https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg alt=java width="40" height="40"/>
- <img src=https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg alt=python width="50" height="50"/>
- <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg alt=mysql width="50" height="50"/> 
- <img src=https://devicon.dev/devicon.git/icons/postgresql/postgresql-original-wordmark.svg alt=postgres width="40" height="40"/>
- <img src=https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg alt=mongodb width="50" height="50"/> 
- 
- <img src=https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg alt=javascript width="40" height="40"/> 
-  <img src=https://upload.wikimedia.org/wikipedia/commons/0/05/Apache_kafka.svg alt=kafka width="50" height="50"/>
- 
- <img src=https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg alt=AWS width="50" height="50"/> 
+<h3>My Skills include 👨‍💻</h3>
+<div>
+    <img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+    <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
+    <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
+    <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
+    <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
+    <img src="https://img.shields.io/badge/MySql-%23EE4C2C.svg?style=for-the-badge&logo=MySql&logoColor=white">
+    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
+    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+   
+</div>
+<br>
+<hr>
 
- <img src=https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg alt=css3 width="40" height="40"/> 
- <img src=https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg alt=html5 width="40" height="40"/> 
- 
-</p>
+
+<h3>🦄 While I am not doing Data Science 😉</h3>
+<ul>
+    <li>Practice classical dance 💃</li>
+    <li>Explore places 🛩 </li>
+    <li>Cook a yummy dish👨‍🍳😋</li>
+    <li> Spotify 🎧💚</li>
+</ul>
+<hr>
+
+<h3>How to reach me ✨</h3>
+<div>
+    <a href="https://www.linkedin.com/in/aarathi-n">
+        <img src="https://image.flaticon.com/icons/png/512/145/145807.png" width="30px">
+    </a>&nbsp;&nbsp;
+    <a href="mailto: aarathi1206@gmail.com">
+        <img src="https://image.flaticon.com/icons/png/512/732/732200.png" width="30px">
+    </a>&nbsp;&nbsp;
+    <a href="https://github.com/AarathiNadathur/">
+        <img src="https://image.flaticon.com/icons/png/512/25/25657.png" width="30px">
+    </a>&nbsp;&nbsp;
+</div>
+<hr>
+<br>
+<div align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=AarathiNadathur&show_icons=true&theme=algolia"  width="400px" alt="AarathiNadathur">
+</div>
 
 
