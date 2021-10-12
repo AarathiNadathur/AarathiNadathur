@@ -5,7 +5,7 @@
 </div>
 
 
-<p> I am a passionate data analyst and love to work with challenging and interesting datasets. I am a Data Analytics graduate from San Jose State University. 👨‍💻I am currently workinng as a Jr. Data Analyst for <strong>Ellkay LLC</strong> </p>
+<p> I am a passionate data analyst and love to work with challenging and interesting datasets. I am a Data Analytics graduate from San Jose State University. 👨‍💻I am currently working as a Jr. Data Analyst 
 
 
 
